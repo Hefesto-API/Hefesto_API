@@ -37,9 +37,22 @@ Nesta primeira etapa, focamos na base humana da cadeia produtiva. Analisamos o c
 
 **Destaques da Sprint:**
 - 📈 **Mapeamento de Empregabilidade:** Identificação de como o mercado automotivo tem se comportado.
-- 💼 **Panorama de Vagas:** Análise de dados reais sobre como e de qual forma e quais a principais movimentações.
-  
+- 💼 **Panorama de Vagas:** Análise de dados reais sobre como e de qual forma e quais as principais movimentações.
 
+### 📋 Product Backlog da 1ª Sprint
+
+| ID | Prioridade | User Story | Status |
+| :---: | :---: | :--- | :---: |
+| **US01** | Alta | Visualizar os dados das empresas automotivas de SJC | ✅ Entregue |
+| **US02** | Alta | Identificar os principais produtos e atividades de cada empresa | 🚧 Sprint 1 |
+| **US03** | Alta | Analisar dados empregatícios do setor automotivo | 🚧 Sprint 1 |
+| **US04** | Alta | Visualizar a distribuição geográfica das empresas em SJC | ✅ Entregue |
+| **US05** | Média | Mapear instituições de apoio à indústria automotiva na região | ✅ Entregue |
+| **US06** | Média | Visualizar a concentração das empresas nos municípios | ✅ Entregue |
+| **US07** | Baixa | Construir gráficos interativos para facilitar decisões | ✅ Entregue |
+| **US08** | Baixa | Disponibilizar o dashboard para uso interno e, depois, público | ✅ Entregue |
+| **US09** | Baixa | Navegar entre as telas do dashboard de forma intuitiva | ✅ Entregue |
+  
 </details>
 
 <details>
