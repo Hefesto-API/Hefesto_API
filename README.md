@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FATEC-Gestão_da_Produção_Industrial-005187?style=for-the-badge&logo=google-scholar&logoColor=white" alt="FATEC GPI">
   <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Metodologia-Scrum-blue?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum">
 </p>
 
 <hr>
