@@ -37,9 +37,9 @@ Assim como **Hefesto** (o deus grego da metalurgia, dos artesãos e do fogo) mol
 Nesta primeira etapa, focamos na base humana da cadeia produtiva. Analisamos o cenário de contratações, as habilidades exigidas e o impacto da automação no chão de fábrica.
 
 **Destaques da Sprint:**
-- 📈 **Mapeamento de Competências:** Identificação de Hard e Soft Skills valorizadas nas montadoras (ex: metodologias ágeis, Lean Six Sigma, automação).
-- 💼 **Panorama de Vagas:** Análise de dados reais sobre a demanda por perfis operacionais e analíticos.
-- 🎓 **O Papel do Tecnólogo:** Como o profissional de Gestão da Produção Industrial se posiciona como um elo estratégico entre o chão de fábrica e a alta gestão.
+- 📈 **Mapeamento de Empregabilidade:** Identificação de como o mercado automotivo tem se comportado.
+- 💼 **Panorama de Vagas:** Análise de dados reais sobre como e de qual forma e quais a principais movimentações.
+  
 
 </details>
 
