@@ -18,10 +18,10 @@
 
 O **Projeto Hefesto** é um observatório de dados desenvolvido para mapear, analisar e compreender os gargalos e as oportunidades da **Cadeia Produtiva do Setor Automotivo**, com foco na realidade de uma montadora. 
 
-Assim como **Hefesto** (o deus grego da metalurgia, dos artesãos e do fogo) moldava as melhores ferramentas com precisão e engenharia, nosso observatório busca forjar inteligência de dados para otimizar fluxos de processos, suprimentos e qualidade.
+Assim como **Hefesto** (o deus grego da metalurgia, dos artesãos e do fogo) moldava as melhores ferramentas com precisão, nosso observatório busca forjar inteligência de dados para otimizar fluxos de processos, suprimentos e qualidade.
 
 ### 🎯 Objetivos
-- 🔍 Mapear os elos da cadeia produtiva automotiva (Inbound, Manufatura, Outbound).
+- 🔍 Mapear os elos da cadeia produtiva automotiva.
 - 📊 Criar dashboards analíticos para tomada de decisão.
 - 👷 Analisar o impacto social, econômico e de empregabilidade no setor.
 
@@ -72,8 +72,8 @@ As seguintes ferramentas estão sendo utilizadas na extração, manipulação e 
 
 | Foto | Nome | Função (Papel no Scrum) | GitHub |
 | :---: | :--- | :--- | :--- |
-| <img src="https://avatars.githubusercontent.com/u/1?v=4" width="50" style="border-radius:50%"> | **Brian Luiz Gomes de Souza** | *Sua Função Aqui* | [Link](#) |
-| <img src="https://avatars.githubusercontent.com/u/2?v=4" width="50" style="border-radius:50%"> | **Renan Kawan** | *Função* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/1?v=4" width="50" style="border-radius:50%"> | **Brian Luiz Gomes de Souza** | *Scrum master* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/2?v=4" width="50" style="border-radius:50%"> | **Renan Kawan** | *PO* | [Link](#) |
 | <img src="https://avatars.githubusercontent.com/u/3?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 3** | *Função* | [Link](#) |
 | <img src="https://avatars.githubusercontent.com/u/4?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 4** | *Função* | [Link](#) |
 | <img src="https://avatars.githubusercontent.com/u/5?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 5** | *Função* | [Link](#) |
