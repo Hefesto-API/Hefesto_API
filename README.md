@@ -18,7 +18,7 @@
 
 O **Projeto Hefesto** é um observatório de dados desenvolvido para mapear, analisar e compreender os gargalos e as oportunidades da **Cadeia Produtiva do Setor Automotivo**, com foco na realidade de uma montadora. 
 
-Assim como **Hefesto** (o deus grego da metalurgia, dos artesãos e do fogo) moldava as melhores ferramentas com precisão, nosso observatório busca forjar inteligência de dados para otimizar fluxos de processos, suprimentos e qualidade.
+Assim como **Hefesto** (o deus grego da metalurgia, dos artesãos e do fogo) moldava as melhores ferramentas com precisão e engenharia, nosso observatório busca forjar inteligência de dados para otimizar fluxos de processos, suprimentos e qualidade.
 
 ### 🎯 Objetivos
 - 🔍 Mapear os elos da cadeia produtiva automotiva (Inbound, Manufatura, Outbound).
@@ -55,27 +55,11 @@ Nesta primeira etapa, focamos na base humana da cadeia produtiva. Analisamos o c
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-As seguintes ferramentas estão sendo utilizadas na construção e documentação do observatório:
+As seguintes ferramentas estão sendo utilizadas na extração, manipulação e visualização de dados do observatório:
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <!-- Adicione o Power BI ou SQL depois se forem usar: -->
-  <!-- <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> -->
-</p>
-
----
-
-## 👥 Equipe Hefesto
-
-| Foto | Nome | Função (Papel no Scrum) | GitHub |
-| :---: | :--- | :--- | :--- |
-| <img src="https://avatars.githubusercontent.com/u/1?v=4" width="50" style="border-radius:50%"> | **Seu Nome Aqui** | *Product Owner* (Exemplo) | [Link](#) |
-| <img src="https://avatars.githubusercontent.com/u/2?v=4" width="50" style="border-radius:50%"> | **Nome do Colega** | *Scrum Master* (Exemplo) | [Link](#) |
-| <img src="https://avatars.githubusercontent.com/u/3?v=4" width="50" style="border-radius:50%"> | **Nome do Colega** | *Desenvolvedor/Analista* | [Link](#) |
-
-> *"A qualidade não é um ato, é um hábito." – Aristóteles*
-
-<hr>
-<p align="center">Desenvolvido com ⚙️ e ☕ por estudantes de GPI da FATEC.</p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="
