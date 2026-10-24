@@ -62,4 +62,25 @@ As seguintes ferramentas estão sendo utilizadas na extração, manipulação e 
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+</p>
+
+---
+
+## 👥 Equipe Hefesto
+
+| Foto | Nome | Função (Papel no Scrum) | GitHub |
+| :---: | :--- | :--- | :--- |
+| <img src="https://avatars.githubusercontent.com/u/1?v=4" width="50" style="border-radius:50%"> | **Brian Luiz Gomes de Souza** | *Sua Função Aqui* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/2?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 2** | *Função* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/3?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 3** | *Função* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/4?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 4** | *Função* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/5?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 5** | *Função* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/6?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 6** | *Função* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/7?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 7** | *Função* | [Link](#) |
+
+> *"A qualidade não é um ato, é um hábito." – Aristóteles*
+
+<hr>
+<p align="center">Desenvolvido com ⚙️ e ☕ por estudantes de GPI da FATEC.</p>
