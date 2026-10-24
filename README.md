@@ -18,7 +18,7 @@
 
 O **Projeto Hefesto** é um observatório de dados desenvolvido para mapear, analisar e compreender os gargalos e as oportunidades da **Cadeia Produtiva do Setor Automotivo**, com foco na realidade de uma montadora. 
 
-Assim como **Hefesto** (o deus grego da metalurgia, dos artesãos e do fogo) moldava as melhores ferramentas com precisão e engenharia, nosso observatório busca forjar inteligência de dados para otimizar fluxos de processos, suprimentos e qualidade.
+Assim como **Hefesto** (o deus grego da metalurgia, dos artesãos e do fogo) moldava as melhores ferramentas com precisão, nosso observatório busca forjar inteligência de dados para otimizar fluxos de processos, suprimentos e qualidade.
 
 ### 🎯 Objetivos
 - 🔍 Mapear os elos da cadeia produtiva automotiva (Inbound, Manufatura, Outbound).
