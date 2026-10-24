@@ -70,7 +70,7 @@ As seguintes ferramentas estão sendo utilizadas na extração, manipulação e 
 
 ## 👥 Equipe Hefesto
 
-| Foto | Nome | Função (Papel no Scrum) | GitHub |
+| Foto | Nome | Função | GitHub |
 | :---: | :--- | :--- | :--- |
 | <img src="https://avatars.githubusercontent.com/u/1?v=4" width="50" style="border-radius:50%"> | **Brian Luiz Gomes de Souza** | *Scrum master* | [Link](#) |
 | <img src="https://avatars.githubusercontent.com/u/2?v=4" width="50" style="border-radius:50%"> | **Renan Kawan** | *PO* | [Link](#) |
