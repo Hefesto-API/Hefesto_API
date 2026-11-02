@@ -86,11 +86,11 @@ As seguintes ferramentas estão sendo utilizadas na extração, manipulação e 
 | :---: | :--- | :--- | :--- |
 | <img src="https://avatars.githubusercontent.com/u/1?v=4" width="50" style="border-radius:50%"> | **Brian Luiz Gomes de Souza** | *Scrum master* | [Link](#) |
 | <img src="https://avatars.githubusercontent.com/u/2?v=4" width="50" style="border-radius:50%"> | **Renan Kawan** | *PO* | [Link](#) |
-| <img src="https://avatars.githubusercontent.com/u/3?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 3** | *Função* | [Link](#) |
-| <img src="https://avatars.githubusercontent.com/u/4?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 4** | *Função* | [Link](#) |
-| <img src="https://avatars.githubusercontent.com/u/5?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 5** | *Função* | [Link](#) |
-| <img src="https://avatars.githubusercontent.com/u/6?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 6** | *Função* | [Link](#) |
-| <img src="https://avatars.githubusercontent.com/u/7?v=4" width="50" style="border-radius:50%"> | **Nome do Membro 7** | *Função* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/3?v=4" width="50" style="border-radius:50%"> | **Jean Marinho** | *Função* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/4?v=4" width="50" style="border-radius:50%"> | **Mariana Bastos** | *Função* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/5?v=4" width="50" style="border-radius:50%"> | **Maria Vitória Rodrigues** | *Função* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/6?v=4" width="50" style="border-radius:50%"> | **Amanda RIbeiro Lima** | *Função* | [Link](#) |
+| <img src="https://avatars.githubusercontent.com/u/7?v=4" width="50" style="border-radius:50%"> | **Victória Alves Alburquerque** | *Função* | [Link](#) |
 
 > *"A qualidade não é um ato, é um hábito." – Aristóteles*
 
