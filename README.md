@@ -89,7 +89,7 @@ As seguintes ferramentas estão sendo utilizadas na extração, manipulação e 
 | <img src="https://avatars.githubusercontent.com/u/3?v=4" width="50" style="border-radius:50%"> | **Jean Marinho** | *Analista de Dados* | [Link](#) |
 | <img src="https://avatars.githubusercontent.com/u/4?v=4" width="50" style="border-radius:50%"> | **Mariana Bastos** | *Função* | [Link](#) |
 | <img src="https://avatars.githubusercontent.com/u/5?v=4" width="50" style="border-radius:50%"> | **Maria Vitória Rodrigues** | *Função* | [Link](#) |
-| <img src="https://avatars.githubusercontent.com/u/6?v=4" width="50" style="border-radius:50%"> | **Amanda Ribeiro Lima** | *Função* | [Link](#) |
+| <img src="./Captura%20de%20tela%202026-11-24%20143447.png" width="50" style="border-radius:50%"> | **Amanda Ribeiro Lima** | *Função* | [Link](#) |
 | <img src="https://avatars.githubusercontent.com/u/7?v=4" width="50" style="border-radius:50%"> | **Victória Alves Alburquerque** | *Função* | [Link](#) |
 
 > *"A qualidade não é um ato, é um hábito." – Aristóteles*
