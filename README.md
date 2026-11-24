@@ -85,7 +85,7 @@ As seguintes ferramentas estão sendo utilizadas na extração, manipulação e 
 | Foto | Nome | Função | GitHub |
 | :---: | :--- | :--- | :--- |
 | <img src="https://avatars.githubusercontent.com/u/1?v=4" width="50" style="border-radius:50%"> | **Brian Souza** | *Scrum master* | [Link](#) |
-| <img src="https://avatars.githubusercontent.com/u/2?v=4" width="50" style="border-radius:50%"> | **Renan Kawan** | *PO* | [Link](#) |
+| <img src="./Captura%20de%20tela%202026-11-24%20142012.png" width="50" style="border-radius:50%"> | **Renan Kawan** | *PO* | [Link](#) |
 | <img src="https://avatars.githubusercontent.com/u/3?v=4" width="50" style="border-radius:50%"> | **Jean Marinho** | *Analista de Dados* | [Link](#) |
 | <img src="https://avatars.githubusercontent.com/u/4?v=4" width="50" style="border-radius:50%"> | **Mariana Bastos** | *Função* | [Link](#) |
 | <img src="https://avatars.githubusercontent.com/u/5?v=4" width="50" style="border-radius:50%"> | **Maria Vitória Rodrigues** | *Função* | [Link](#) |
